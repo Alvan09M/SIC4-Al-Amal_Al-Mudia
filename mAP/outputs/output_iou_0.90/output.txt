@@ -1,0 +1,31 @@
+# AP and precision/recall per class
+0.00% = bendera AP 
+ Precision: ['0.00', '0.00', '0.00']
+ Recall :['0.00', '0.00', '0.00']
+
+4.17% = dasi AP 
+ Precision: ['0.00', '0.00', '0.00', '0.25', '0.20', '0.17', '0.14', '0.12', '0.11', '0.10']
+ Recall :['0.00', '0.00', '0.00', '0.17', '0.17', '0.17', '0.17', '0.17', '0.17', '0.17']
+
+0.00% = logo AP 
+ Precision: ['0.00', '0.00', '0.00', '0.00', '0.00', '0.00']
+ Recall :['0.00', '0.00', '0.00', '0.00', '0.00', '0.00']
+
+0.00% = sekolah AP 
+ Precision: []
+ Recall :[]
+
+
+# mAP of all classes
+mAP = 1.04%
+
+# Number of ground-truth objects per class
+bendera: 5
+dasi: 6
+logo: 6
+sekolah: 1
+
+# Number of detected objects per class
+bendera: 3 (tp:0, fp:3)
+dasi: 10 (tp:1, fp:9)
+logo: 6 (tp:0, fp:6)

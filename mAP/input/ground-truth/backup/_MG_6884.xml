@@ -1,0 +1,38 @@
+<annotation>
+	<folder>resize image</folder>
+	<filename>_MG_6884.jpg</filename>
+	<path>C:\Users\USER_1\Downloads\resize image\_MG_6884.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dasi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>414</xmin>
+			<ymin>296</ymin>
+			<xmax>618</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>543</xmin>
+			<ymin>189</ymin>
+			<xmax>612</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>
